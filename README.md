@@ -4,4 +4,4 @@
   
 💾 Conhecimentos em: HTML5 | CSS3
   
-📜Estudando:JS
+📜Estudando: JS
